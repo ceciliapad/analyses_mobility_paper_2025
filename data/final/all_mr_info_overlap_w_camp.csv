@@ -1,0 +1,252 @@
+,nom,ref,bp,married,age_married,where_met_spouse,how_met_spouse,married_before,times_married_before,prev_spouse_dead,prev_spouse_div,polygamy_ever,clan.x,clan_mum,clan_dad,clan_spouse,ref_spouse,bp_spouse,kids.x,kids_alive.x,camp_name.x,house_num,house_ppl,time_camp,sex.x,age_group.x,region,year,clan.y,camp_name.y,sex.y,age_group.y,kids.y,kids_alive.y,residence_camp,camp_region,loc,people_number_2022,set_type
+1,Bonga2,M202,Bangui,1,Adulte,Mboule,home_visit,1,1,,1,0,Bokiba,,,,203,Mboule,NA,3,Bonga2,1,5,1,M,Adulte,Macao,2023,Bokiba,Bonga 2,M,Adulte,1,3,Bonga2,C,V,31,village_camp
+2,Bonga2,M203,Bonga2,1,Adolescent,Mboule,funeral,0,,,NA,0,Bokobya,Sambala,Bokobya,Bokiba,200,Bangui,NA,3,Bonga2,1,5,1,F,Adulte,Macao,2023,Bokobya,Bonga 2,F,Adulte,1,3,Bonga2,C,V,31,village_camp
+3,Bonga2,M204,Bonga2,1,Adolescent,Boua,foraging,1,1,,1,1,Ebeke,Bombingo,Ebeke,Bokosso,206,Mboule,NA,3,Bonga2,2,5,2,F,Adulte,Macao,2023,Ebeke,Bonga 2,F,Adulte,1,3,Bonga2,C,V,31,village_camp
+4,Bonga2,M205,Bangui,1,Adolescent,mboule,funeral,0,,,NA,0,Bombela,,Bombela,,208,Mboule,NA,7,Bonga2,3,8,2,F,Adulte,Macao,2023,Bombela,Bonga 2,F,Adulte,1,7,Bonga2,C,V,31,village_camp
+5,Bonga2,M161,Oui?,1,Bangui,village,Bangui,0,,,NA,0,NA,Mokumu,Bombela,"Ebonga, mokumu",Bangui,,5,0,Kakelo4,2,6,2,M,Adulte,Macao,2022,NA,NA,NA,NA,NA,NA,Kakelo4,C,F,30,forest_camp
+6,Bonga2,M206,Bonga2,1,Enfant,Baye,foraging,0,,,NA,0,Boundja,Sambala,Boundja,Bombingo,Aucun,Baye,NA,NA,Bonga2,4,6,2,F,Personne agee,Macao,2023,Boundja,Bonga 2,F,Personne agee,1,NA,Bonga2,C,V,31,village_camp
+7,Bonga2,M207,Bonga2,0,,,,0,,,NA,0,Bombingo,Boundja,Bombingo,,,,NA,0,Bonga2,4,6,2,M,Adulte,Macao,2023,Bombingo,Bonga 2,M,Adulte,0,0,Bonga2,C,V,31,village_camp
+8,Bate,M208,Bata,1,Adulte,Bangui,foraging,1,1,,1,0,Emeke,Mwepe,Emeke,Bongomba,213,Payo,NA,3,Bate,1,5,1,M,Adulte,Macao,2023,Emeke,Bate,M,Adulte,1,3,Bate,C,V,11,village_camp
+9,Mbala,M103,,1,Adolescent,Bangui,foraging,1,1,,1,0,Emanongo,Bongomba,Emanongo,Emeke,215,Bangui,1,NA,Kakelo6,1,4,2,M,Adulte,Macao,2022,NA,NA,NA,NA,NA,NA,Kakelo6,C,F,30,forest_camp
+10,Mbala,M104,Bangui,1,Adolescent,Boua1,foraging,0,,,NA,0,Emeke,Boundja,Emeke,Emanongo,214,Bangui,NA,NA,Kakelo6,1,4,2,F,Adulte,Macao,2022,NA,NA,NA,NA,NA,NA,Kakelo6,C,F,30,forest_camp
+11,Bonga1,M210,Adolescent,0,foraging,Bangui,Mike alphonsine,0,,Oui?,1,1,Dinze,Bokiba,"Bosando, dinze",La famille,,,NA,4,Bonga1,1,4,2,M,Adulte,Macao,2023,Bosando,Bonga 1,M,Adulte,1,4,Bonga1,C,V,34,village_camp
+12,Bonga1,M211,Bangui,1,Enfant,Bobate,foraging,0,,,NA,0,Bokiba,Emeke,Bokiba,Bokobya,217,Bayanga,NA,5,Bonga1,1,4,2,F,Adulte,Macao,2023,Bokiba,Bonga 1,F,Adulte,1,5,Bonga1,C,V,34,village_camp
+13,Bonga1,M212,Bangui,1,Adolescent,Bangui,agriculture,0,,,NA,0,Bokiba,Emeke,Bokiba,Bongomba,220,Bangui,NA,4,Bonga1,2,5,3,M,Adulte,Macao,2023,,Bonga 1,M,Adulte,1,4,Bonga1,C,V,34,village_camp
+14,Bonga1,M213,,1,Bangui,foraging,Bangui,0,,,NA,0,Bokiba,Bokiba,Emeke,"Ponga, bokiba",Bangui,,NA,3,Bonga1,7,3,3,M,Personne agee,Macao,2023,Bokiba,Bonga 1,M,Personne agee,1,3,Bonga1,C,V,34,village_camp
+15,Bonga1,M214,Bangui,1,Adulte,Bangui,home_visit,1,2,,1,0,Bokobya,Modjoue,Bokobya,Bosando,275,Bangui,NA,1,Bonga1,3,3,2,M,Adulte,Macao,2023,Bokobya,Bonga 1,M,Adulte,1,1,Bonga1,C,V,34,village_camp
+16,Payo,M220,Bangui,1,Adolescent,Koungou,funeral,1,1,1,NA,0,,Bokiba,,Boyemba,271,Payo,NA,0,Payo,1,2,1,M,Adolescent,Macao,2023,,Payo,M,Adolescent,0,0,Payo,C,V,28,village_camp
+17,Payo,M221,,1,Adulte,Bangui,foraging,1,2,,1,0,Bonguinda,Bobondjo,Bonguinda,Bongomba,234,,NA,2,Payo,2,4,1,F,Personne agee,Macao,2023,Bonguinda,Payo,F,Personne agee,1,2,Payo,C,V,28,village_camp
+18,Payo,M222,Likasa,1,Adulte,Bangui,home_visit,1,5,1,NA,0,Bongomba,Ngouta,Bongomba,Bonguinda,232,,NA,3,Payo,2,4,1,M,Personne agee,Macao,2023,Bongomba,Payo,M,Personne agee,1,3,Payo,C,V,28,village_camp
+19,Payo,M223,,1,Adolescent,Bangui,foraging,0,,,NA,0,Bondongo,Bonguinda,Bondongo,Bokosso,236,Bangui,NA,8,Payo,3,10,1,F,Adulte,Macao,2023,Bondongo,Payo,F,Adulte,1,8,Payo,C,V,28,village_camp
+20,Payo,M224,Bangui,1,Adulte,Bangui,foraging,0,,,NA,0,Tchaku,Tchaku,Bondongo,"Boundja, Tchaku",236,Bonguinda,NA,7,Payo,3,10,1,M,Adulte,Macao,2023,Tchaku,Payo,M,Adulte,1,7,Payo,C,V,28,village_camp
+21,Payo,M227,Bangui,1,Adulte,Loundoungou,home_visit,1,1,,1,0,Bomboko,Bondongo,Bomboko,Bossombo,241,Macao,NA,1,Payo,4,3,1,F,Adulte,Macao,2023,Bomboko,Payo,F,Adulte,1,1,Payo,C,V,28,village_camp
+22,Payo,M228,Djoube,1,Enfant,Bangui,foraging,0,,,NA,0,Bondongo,Bonguinda,Bondongo,Bomboko,240,Bangui,NA,7,Payo,5,5,1,F,Adulte,Macao,2023,Bondongo,Payo,F,Adulte,1,7,Payo,C,V,28,village_camp
+23,Payo,M229,Bangui,1,Adolescent,Bangui,funeral,1,1,,1,0,Sambala,Sambala,Bondongo,Bombala et sambala,239,Djoube,NA,5,Payo,5,6,1,M,Adulte,Macao,2023,Sambala,Payo,M,Adulte,1,5,Payo,C,V,28,village_camp
+24,Payo,M230,Oui?,1,Loundoungou,home_visit,Loundoungou,0,,1,NA,0,Bossombo,,,,Bangui,Oui?,NA,NA,Payo,4,3,1,M,Adulte,Macao,2023,Bossombo,Payo,M,Adulte,1,NA,Payo,C,V,28,village_camp
+25,Bate,M237,Bangui,1,Adolescent,Douma,foraging,0,,,NA,0,,,,,249,Bandza,NA,3,Bate,2,5,2,F,Adulte,Macao,2023,,Bate,F,Adulte,1,3,Bate,C,V,11,village_camp
+26,Bate,M238,Bandza,1,Adolescent,Douma,foraging,1,2,,1,1,,,,,248,Bangui,NA,3,Bate,2,5,2,M,Adulte,Macao,2023,,Bate,M,Adulte,1,3,Bate,C,V,11,village_camp
+27,Bete3,M239,Bangui,1,Adolescent,Mboule,funeral,0,,,NA,0,Badjoki,Boyemba,Bombingo,Sambala,251,Mboule,NA,2,Bete3,1,6,1,M,Adulte,Macao,2023,Badjoki,Bete 3,M,Adulte,1,2,Bete3,C,V,8,village_camp
+28,Bete3,M240,Mboule,1,Adolescent,Mboule,funeral,0,,,NA,0,Sambala,,Sambala,Bombingo,250,Bangui,NA,2,Bete3,1,4,2,F,Adulte,Macao,2023,Sambala,Bete 3,F,Adulte,1,2,Bete3,C,V,8,village_camp
+29,Bete3,M241,Bangui,1,Adolescent,,foraging,0,Non,,NA,0,Bombela,Bombingo,Bombela,Bokobela,Dejà decede,Bangui,NA,2,Bete3,NA,NA,NA,F,Adulte,Macao,2023,Bombela,Bete 3,F,Adulte,1,2,Bete3,C,V,8,village_camp
+30,Bete1,M242,Bangui,1,Adulte,Bangui,foraging,1,2,,1,0,Bokiba,Bokiba,Bobe,Bokiba et Eepe,254,Mboule,NA,5,Bete1,1,3,1,M,Adulte,Macao,2023,Bokiba,Bete 1,M,Adulte,1,5,Bete1,C,V,15,village_camp
+31,Bete1,M243,Mboule,1,Adulte,,foraging,0,,,NA,0,Bolobe,Boyemba,Bolobe,Bokiba,253,Bangui,NA,5,Bete1,1,3,1,F,Adulte,Macao,2023,Bolobe,Bete 1,F,Adulte,1,5,Bete1,C,V,15,village_camp
+32,Bete1,M244,,1,Adulte,Bangui,funeral,1,2,1,1,0,Baala,Bokwete,Baala,Bombingo,,Bangui,NA,3,Bete1,2,4,1,F,Personne agee,Macao,2023,Baala,Bete 1,F,Personne agee,1,3,Bete1,C,V,15,village_camp
+33,Bete1,M245,Bangui,1,Adulte,Bangui,foraging,0,,,NA,1,Bokiba,Eepe,Bokiba,Emanongo,,Bangui,NA,4,Bete1,2,4,1,M,Adulte,Macao,2023,Bokiba,Bete 1,M,Adulte,1,4,Bete1,C,V,15,village_camp
+34,Payo,M246,,1,Enfant,Bangui,funeral,0,,,NA,1,Boyemba,Bobondjo,Boyemba,Boundja,260,Bangui,NA,5,Payo,6,2,1,M,Adulte,Macao,2023,Boyemba,Payo,M,Adulte,1,5,Payo,C,V,28,village_camp
+35,Payo,M247,Bangui,0,,,,1,1,1,NA,0,Bobondjo,,,,,Bangui,NA,3,Payo,7,2,2,F,Personne agee,Macao,2023,Bobondjo,Payo,F,Personne agee,1,3,Payo,C,V,28,village_camp
+36,Payo,M248,,1,Enfant,Bangui,funeral,0,,,NA,0,Boundja,Bongomba,Boundja,Boyemba,258,Boua1,NA,5,Payo,6,2,1,F,Adulte,Macao,2023,Boundja,Payo,F,Adulte,1,5,Payo,C,V,28,village_camp
+37,Bonga1,M251,Mboule,1,Adolescent,Bangui,foraging,0,,,NA,0,Ekao,Ebouye,Ekao,,264,Bobate,NA,5,Bonga1,4,7,1,,Adulte,Macao,2023,Ekao,Bonga 1,,Adulte,1,5,Bonga1,C,V,34,village_camp
+38,Bonga1,,Bangui,1,Adolescent,,foraging,0,,,NA,0,Sambala,Bombingo,Sambala,Bokobya,263,Mboule,1,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+39,,M252,,1,Enfant,,,0,,,NA,0,Boundja,,Boundja,Bokiba,266,Bangui,NA,1,Bete1,3,4,1,F,Adolescent,Macao,2023,Boundja,Bete 1,F,Adolescent,1,1,Bete1,C,V,15,village_camp
+40,Bete1,M253,,1,Adolescent,,foraging,0,,,NA,0,,Bongomba,Emanongo,Bokiba,257,Bangui,NA,6,Bete1,2,4,1,F,Adulte,Macao,2023,,Bete 1,F,Adulte,1,6,Bete1,C,V,15,village_camp
+41,Bete1,M254,Bangui,1,Adolescent,Bete1,funeral,1,1,1,NA,0,Eepe,,Eepe,Bokiba,269,Bangui,NA,1,Bete1,4,3,2,M,Adolescent,Macao,2023,Eepe,Bete 1,M,Adolescent,1,1,Bete1,C,V,15,village_camp
+42,Bete1,M255,Bangui,1,Adolescent,Bangui,funeral,0,,,NA,0,Bokiba,Bolobe,Bokiba,Baaka,268,Bangui,NA,1,Bete1,4,3,1,F,Adolescent,Macao,2023,Bokiba,Bete 1,F,Adolescent,1,1,Bete1,C,V,15,village_camp
+43,,,,0,,,,0,,,NA,0,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+44,Payo,M257,Bangui,1,Enfant,Bangui,foraging,1,1,,1,0,Boyemba,Boundja,Boyemba,,230,Bangui,NA,0,Payo,1,2,1,F,Adolescent,Macao,2023,Boyemba,Payo,F,Adolescent,0,0,Payo,C,V,28,village_camp
+45,Bonga1,M258,,1,Adulte,Bangui,foraging,0,,,NA,0,Bombingo,Emeke,Bombingo,Ebeke,,Bangui,NA,3,Bonga1,4,4,1,F,Personne agee,Macao,2023,Bombingo,Bonga 1,F,Personne agee,1,3,Bonga1,C,V,34,village_camp
+46,Bonga1,M259,Bangui,1,Adolescent,Bangui,funeral,0,,,NA,0,Bokiba,Emeke,Bokiba,Sambala,,Bangui,NA,1,Bonga1,5,3,1,F,Adulte,Macao,2023,Bokiba,Bonga 1,F,Adulte,1,1,Bonga1,C,V,34,village_camp
+47,Bonga1,M260,Bangui,1,Adulte,Bangui,funeral,0,,,NA,0,Bombela,Bokiba,Bombela,Bokobya,223,Bangui,NA,1,Bonga1,3,3,2,F,Adulte,Macao,2023,Bombela,Bonga 1,F,Adulte,1,1,Bonga1,C,V,34,village_camp
+48,Bonga1,M261,Bangui,1,Adulte,Bangui,home_visit,0,,,NA,0,Bokiba,Epunga,Bokiba,Boyemba,,Bangui,NA,4,Bonga1,6,4,1,F,Adulte,Macao,2023,Bokiba,Bonga 1,F,Adulte,1,4,Bonga1,C,V,34,village_camp
+49,Bete2,M262,Bangui,1,Adolescent,Bangui,funeral,0,,,NA,0,Engouta,Bodzemba,Engouta,Bongomba,,Bangui,NA,5,Bete2,1,7,5,F,Adulte,Macao,2023,Engouta,Bete 2,F,Adulte,1,5,Bete2,C,V,25,village_camp
+50,Bete2,M263,Bangui,1,Adulte,Bangui,home_visit,1,1,1,NA,0,Boyemba,,Boyemba,Emeke,,Bangui,NA,5,Bete2,3,3,5,F,Adulte,Macao,2023,Boyemba,Bete 2,F,Adulte,1,5,Bete2,C,V,25,village_camp
+51,Bete2,M264,Bangui,1,Adulte,Bangui,funeral,1,1,,1,0,Bokosso,,Bokosso,Bombingo,Mort,Bangui,NA,1,Bete2,4,2,5,F,Personne agee,Macao,2023,Bokosso,Bete 2,F,Personne agee,1,1,Bete2,C,V,25,village_camp
+52,Bete2,M265,Bangui,1,Adulte,Bangui,funeral,1,1,,1,0,Bokosso,Boundja,Bokosso,Emeke,283,Bangui,NA,4,Bete2,5,6,5,M,Adulte,Macao,2023,Bokosso,Bete 2,M,Adulte,1,4,Bete2,C,V,25,village_camp
+53,Bete2,M266,Bangui,1,Adolescent,Bangui,funeral,0,,,NA,0,Emeke,Boyemba,Emeke,Bokosso,282,Bangui,NA,4,Bete2,NA,6,5,F,Adulte,Macao,2023,Emeke,Bete 2,F,Adulte,1,4,Bete2,C,V,25,village_camp
+54,Bete2,M267,Bangui,1,Adolescent,Bangui,funeral,0,,,NA,1,Bongomba,Bombomo,Bongomba,Engouta,,Bangui,NA,10,Bete2,1,7,3,M,Adulte,Macao,2023,Bongomba,Bete 2,M,Adulte,1,10,Bete2,C,V,25,village_camp
+55,Bete3,M268,Bangui,1,Adolescent,Bangui,village,0,,,NA,0,Bombela,Bombingo,Bombela,Bondza,,Bangui,NA,3,Bete3,NA,NA,NA,F,Adulte,Macao,2023,Bombela,Bete 3,F,Adulte,1,3,Bete3,C,V,8,village_camp
+56,Bete2,M270,Bangui,1,Adolescent,Bangui,foraging,0,,,NA,0,Eepe,Ponga,Eepe,Boyemba,,Bangui,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+57,Mboule,M96,Bangui,1,Adolescent,Mboule,foraging,0,,,NA,1,Bolobe,Emeke,Bolobe,Ponga,301,Bangui,1,NA,Kakelo1,3,2,2,M,Adulte,Macao,2022,NA,NA,NA,NA,NA,NA,Kakelo1,C,F,NA,forest_camp
+58,Mboule,M97,Bangui,1,Adolescent,Bangui,home_visit,0,,,NA,0,Ponga,Bongomba,Ponga,Bolobe,300,Bangui,1,NA,Kakelo1,3,2,2,F,Adulte,Macao,2022,NA,NA,NA,NA,NA,NA,Kakelo1,C,F,NA,forest_camp
+59,Mboule,M271,Bangui,1,Adolescent,Mboule,foraging,0,,,NA,0,Bolobe,Ponga,Bolobe,Bokosso,303,Bangui,NA,4,Mboule,2,6,5,M,Adulte,Macao,2023,Bolobe,Mboule,M,Adulte,1,4,Mboule,C,V,59,village_camp
+60,Mboule,M272,Bangui,1,Adulte,Mboule,foraging,1,1,,1,0,Bokosso,Sambala,Bokosso,Bolobe,302,Bangui,NA,4,Mboule,2,6,5,M,Adulte,Macao,2023,Bokosso,Mboule,M,Adulte,1,4,Mboule,C,V,59,village_camp
+61,Mboule,M273,Bangui,1,Adolescent,Bangui,home_visit,0,,,NA,0,Bokosso,Bolobe,Bokosso,Boudje,305,Bangui,NA,0,Mboule,3,2,5,F,Adolescent,Macao,2023,Bokosso,Mboule,F,Adolescent,0,0,Mboule,C,V,59,village_camp
+62,Mboule,M274,Bangui,1,Adolescent,Mboule,foraging,0,,,NA,0,Eepe,Endumu,Eepe,Bokosso,304,Bangui,NA,0,Mboule,3,2,2,M,Adolescent,Macao,2023,Eepe,Mboule,M,Adolescent,0,0,Mboule,C,V,59,village_camp
+63,Mboule,M275,Bangui,1,Adulte,Mboule,funeral,0,,,NA,0,Bodzoyi,,Bodzoyi,,Morte,,NA,3,Mboule,4,1,5,M,Personne agee,Macao,2023,Bodzoyi,Mboule,M,Personne agee,1,3,Mboule,C,V,59,village_camp
+64,Mboule,M131,Bangui,1,Adolescent,Bangui,funeral,1,2,,1,1,Bonde,,,,310,Bangui,1,2,Kakelo2,2,5,NA,M,Adulte,Macao,2022,NA,NA,NA,NA,NA,NA,Kakelo2,C,F,11,forest_camp
+65,Mboule,M132,Bangui,1,Adolescent,Bangui,funeral,0,,,NA,0,Sambala,Engando,Sambala,,309,Bangui,1,2,Kakelo2,2,5,1,F,Adulte,Macao,2022,NA,NA,NA,NA,NA,NA,Kakelo2,C,F,11,forest_camp
+66,Mboule,M134,Mboule,1,Adolescent,Bangui,home_visit,0,,,NA,0,Emabote,Donda,Sie,Mandanda,312,Bangui,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+67,Mboule,M67,,1,Adolescent,Bangui,foraging,0,,,NA,0,Mandanga,,,,314,Bangui,1,0,Boua1,2,3,2,M,Adulte,Macao,2022,NA,NA,NA,NA,NA,NA,Boua1,C,F,17,forest_camp
+68,Mboule,M140,Bangui,1,Adolescent,Bobate,funeral,0,,,NA,0,Bobe,Emeke,Bobe,Bonguima,316,Mboule,1,4,Kakelo3,2,3,2,M,Adulte,Macao,2022,NA,NA,NA,NA,NA,NA,Kakelo3,C,F,11,forest_camp
+69,Mboule,M148,Bangui,1,Adolescent,Bangui,funeral,0,,,NA,0,Bonguima,Bokosso,Bonguima,Bobe,315,Bangui,NA,NA,Kakelo3,2,3,2,F,Adulte,Macao,2022,NA,NA,NA,NA,NA,NA,Kakelo3,C,F,11,forest_camp
+70,Mboule,M277,,1,Adulte,,foraging,0,,,NA,0,Boudje,Bodongo,Boudje,Ekao,318,,NA,7,Mboule,8,10,5,F,Personne agee,Macao,2023,Boudje,Mboule,F,Personne agee,1,7,Mboule,C,V,59,village_camp
+71,Mboule,M74,Bangui,1,Adulte,Bangui,home_visit,0,,,NA,1,Boudje,Bobondjo,Boudje,"Emeke, Bokosso",320,Bangui,1,4,Boua2,3,2,2,M,Adulte,Macao,2022,NA,NA,NA,NA,NA,NA,Boua2,C,F,25,forest_camp
+72,Mboule,M75,Bangui,1,Adolescent,Bangui,foraging,0,,,NA,0,Emeke,,Emeke,Boudje,319,Bangui,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+73,Mboule,M278,Mboule,1,Adolescent,Mboule,village,0,,,NA,0,,,,,321,Bangui,NA,3,Mboule,10,5,2,M,Adulte,Macao,2023,,Mboule,M,Adulte,1,3,Mboule,C,V,59,village_camp
+74,Mboule,M280,Bangui,1,Adulte,Mboule,home_visit,0,,,NA,0,Bodzoyi,,,,,Bangui,NA,1,Mboule,11,2,2,F,Adulte,Macao,2023,,Mboule,F,Adulte,1,1,Mboule,C,V,59,village_camp
+75,Mboule,M281,Mboule,1,Adolescent,Bangui,foraging,0,,,NA,0,Ekao,Boudje,Ekao,Sambala,,Mboule,NA,2,Mboule,8,10,5,F,Adulte,Macao,2023,Ekao,Mboule,F,Adulte,1,2,Mboule,C,V,59,village_camp
+76,Mboule,,Bangui,1,Adolescent,Bangui,home_visit,0,,,NA,0,Emeke,Bongomba,Emeke,Boyombia,313,Bangui,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+77,Mboule,M282,Bangui,1,Adolescent,Mboule,funeral,0,,,NA,1,Bongomba,,Bongomba,Emokumu,"329,330","Bangui, Bangui",NA,4,Mboule,13,2,1,M,Adulte,Macao,2023,Bongomba,Mboule,M,Adulte,1,4,Mboule,C,V,59,village_camp
+78,Mboule,M283,Bangui,1,Adolescent,Bangui,funeral,0,,,NA,0,Emokumu,Mobe,Boyombya,Bongomba,328,Bangui,NA,2,Mboule,13,2,2,F,Adulte,Macao,2023,Moponga,Mboule,F,Adulte,1,2,Mboule,C,V,59,village_camp
+79,Mboule,M284,Bangui,1,Adolescent,Bangui,funeral,1,1,,1,0,Bodzoyi,,Bodzoyi,,328,,NA,3,Mboule,14,4,2,F,Adulte,Macao,2023,Bodzoyi,Mboule,F,Adulte,1,3,Mboule,C,V,59,village_camp
+80,Mboule,M298,Bangui,1,Adolescent,Bangui,funeral,0,,,NA,0,Bolobe,Bonguima,Bolobe,Bongomba,336,Bangui,NA,0,Mboule,NA,NA,2,M,Adolescent,Macao,2023,Bolobe,Mboule,M,Adolescent,0,0,Mboule,C,V,59,village_camp
+81,Mboule,,Bangui,1,Adolescent,Bangui,funeral,0,,,NA,0,Bongomba,Emeke,Bongomba,Bolobe,335,Bangui,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+82,Mboule,M285,Bangui,0,,,,0,,,NA,0,Bodzoyi,,Bodzoyi,,,,NA,0,Mboule,NA,NA,NA,M,Adolescent,Macao,2023,Bodzoyi,Mboule,M,Adolescent,0,0,Mboule,C,V,59,village_camp
+83,Mboule,M286,Bangui,1,Adulte,Bangui,village,0,,,NA,0,Bodzoyi,,Bodzoyi,Kombia,Mort,Bangui,NA,2,Mboule,NA,4,2,F,Adulte,Macao,2023,Bodzoyi,Mboule,F,Adulte,1,2,Mboule,C,V,59,village_camp
+84,Mboule,M287,Bangui,1,Adolescent,Bobate,funeral,0,,,NA,0,Boudja,Bodzoyi,Boudje,,340,Bangui,NA,0,Mboule,NA,2,1,F,Adolescent,Macao,2023,Boudja,Mboule,F,Adolescent,0,0,Mboule,C,V,59,village_camp
+85,Mboule,M136,Bangui,1,Adulte,Bangui,foraging,1,1,,1,0,Bongomba,Bombya,Bongomba,Emeke,342,Bobate,1,4,Boua2,6,2,NA,F,Adulte,Macao,2022,NA,NA,NA,NA,NA,NA,Boua2,C,F,25,forest_camp
+86,Mboule,M130,Bangui,1,Adulte,Bangui,foraging,1,2,1,1,1,Emeke,Bombingo,Emeke,Bongomba,341,Bangui,1,4,Boua2,6,2,2,M,Adulte,Macao,2022,NA,NA,NA,NA,NA,NA,Boua2,C,F,25,forest_camp
+87,Goumakongou2,M288,Bangui,1,Adulte,Bolobe,funeral,1,2,1,NA,0,Bonguima,Bombongo,Bonguima,Epele,346,Bangui,NA,6,Goumakoungou2,1,3,1,M,Personne agee,Macao,2023,Bonguima,Goumakongou 2,M,Personne agee,1,6,Goumakoungou2,C,F,12,forest_camp
+88,Goumakongou2,M373,Bangui,1,Adolescent,Mboule,funeral,1,1,1,NA,0,Bombongo,Emeke,Bombongo,Emokumu,,Bangui,NA,1,Goumakoungou2,4,4,1,F,Personne agee,Macao,2023,Bombongo,Goumakoungou 2,F,Personne agee,1,1,Goumakoungou2,C,F,12,forest_camp
+89,Goumakongou2,M289,Bangui,1,Adulte,Bangui,funeral,1,,,1,0,Eepe,Bodzoyi,Eepe,Bonguima,344,Bangui,NA,7,Goumakoungou2,1,3,1,F,Adulte,Macao,2023,Eepe,Goumakongou 2,F,Adulte,1,7,Goumakoungou2,C,F,12,forest_camp
+90,Goumakongou2,M290,Bangui,1,Adolescent,Mboule,funeral,1,1,1,NA,0,Bodzoyi,Bokwete,Bodzoyi,Eepe,Mort,Bangui,NA,3,Goumakoungou2,2,2,1,F,Personne agee,Macao,2023,Bodzoyi,Goumakongou 2,F,Personne agee,1,3,Goumakoungou2,C,F,12,forest_camp
+91,Goumakongou2,M291,Bangui,1,Adulte,Bangui,village,0,,,NA,0,Eepe,Bodzoyi,Eepe,,,Bandza,NA,1,Goumakoungou2,3,1,1,M,Adulte,Macao,2023,Eepe,Goumakongou 2,M,Adulte,1,1,Goumakoungou2,C,F,12,forest_camp
+92,Goumakongou2,M293,Bangui,1,Adolescent,bangui,foraging,1,1,,1,0,Kalanga,Boudje,Kalanga,Bonguima,350,Bangui,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+93,Goumakongou2,M294,Bangui,1,Adolescent,Bangui,foraging,0,,,NA,0,Bonguima,Eepe,Bonguima,Kalanga,349,Bangui,NA,0,Goumakoungou2,5,2,1,F,Adolescent,Macao,2023,Bonguima,Goumakoungou 2,F,Adolescent,0,0,Goumakoungou2,C,F,12,forest_camp
+94,Goumakongou2,M295,Bangui,0,,,,0,,,NA,0,Bonguima,Eepe,Bonguima,,,,NA,0,Goumakoungou2,4,4,2,F,Adolescent,Macao,2023,Bonguima,Goumakoungou 2,F,Adolescent,0,0,Goumakoungou2,C,F,12,forest_camp
+95,Keke,M296,Djoube,1,Adulte,Djoube,village,1,2,,1,0,Kalanga,,,,353,Bangui,NA,7,Keke,1,6,2,M,Adulte,Macao,2023,Kalanga,Keke,M,Adulte,1,7,Keke,C,F,39,forest_camp
+96,Keke,M297,Bangui,1,Adulte,Bangui,village,1,1,,1,0,Boudje,,Boudje,Kalanga,352,Djoube,NA,6,Keke,1,6,2,F,Adulte,Macao,2023,Ebuye,Keke,F,Adulte,1,6,Keke,C,F,39,forest_camp
+97,Keke,M299,Djoube,1,Adulte,Djoube,funeral,1,1,,1,0,,,,,357,Djoube,NA,3,Keke,2,5,1,M,Adulte,Macao,2023,,Keke,M,Adulte,1,3,Keke,C,F,39,forest_camp
+98,Keke,M300,Djoube,1,Adolescent,Djoube,funeral,1,1,,1,0,Kalanga,Budje,Kalanga,Bondongo,356,Djoube,NA,3,Keke,2,5,2,F,Adulte,Macao,2023,Kalanga,Keke,F,Adulte,1,3,Keke,C,F,39,forest_camp
+99,Keke,M301,Mboule,1,Adulte,Bangui,funeral,1,2,,1,1,Boudje,Boudje,,,"359,360","Bobate, Mboule",NA,8,Keke,3,6,1,M,Adulte,Macao,2023,Boudje,Keke,M,Adulte,1,8,Keke,C,F,39,forest_camp
+100,Keke,M303,,1,Adolescent,Bangui,funeral,1,1,,1,0,Bokwete,Bobondjo,Bokwete,Boudje,358,Mboule,NA,3,Keke,3,6,2,F,Adulte,Macao,2023,Bokwete,Keke,F,Adulte,1,3,Keke,C,F,39,forest_camp
+101,Keke,M83,Mboule,1,Enfant,Bangui,funeral,0,,,NA,1,Boudje,Ebonga,Boudje,Bodzoyi,362,Mboule,1,7,Kakelo2,1,6,1,M,Adulte,Macao,2022,NA,NA,NA,NA,NA,NA,Kakelo2,C,F,11,forest_camp
+102,Keke,M84,Bangui,1,Enfant,Bangui,funeral,0,,,NA,0,Bodzoyi,,Bodzoyi,Boudje,361,Mboule,1,7,Kakelo2,1,6,1,F,Adulte,Macao,2022,NA,NA,NA,NA,NA,NA,Kakelo2,C,F,11,forest_camp
+103,Keke,M89,Mboule,0,,,,0,,,NA,0,Boudje,Bodzoyi,Boudje,,,,NA,NA,Kakelo2,3,2,1,M,Adolescent,Macao,2022,NA,NA,NA,NA,NA,NA,Kakelo2,C,F,11,forest_camp
+104,Keke,M304,Bangui,1,Enfant,Bangui,funeral,0,,,NA,0,Boudje,Bongomba,Boudje,Emeke,366,Bobate,NA,1,Keke,6,3,2,F,Adulte,Macao,2023,Boudje,Keke,F,Adulte,1,1,Keke,C,F,39,forest_camp
+105,Keke,M305,Bangui,1,Enfant,Bangui,funeral,0,,,NA,1,Bokeba,,,,365,Bangui,NA,1,Keke,6,3,1,M,Adulte,Macao,2023,Bokeba,Keke,M,Adulte,1,1,Keke,C,F,39,forest_camp
+106,Keke,M306,Manfouete,1,Adulte,Manfouete,funeral,0,,,NA,0,Bolobe,Botengue,Bolobe,Boyengue,368,,NA,5,Keke,7,6,1,M,Adulte,Macao,2023,Boyengue,Keke,M,Adulte,1,5,Keke,C,F,39,forest_camp
+107,Keke,M307,Manfouete,1,Adolescent,Manfouete,funeral,0,,,NA,0,Boyengue,,Boyengue,Bolobe,367,Manfouete,NA,4,Keke,7,6,1,F,Adulte,Macao,2023,Boyengue,Keke,F,Adulte,1,4,Keke,C,F,39,forest_camp
+108,Keke,M308,Bangui,1,Adulte,Bangui,home_visit,0,,,NA,0,Ebonga,Emeke,Ebonga,Boudje,370,Bangui,NA,2,Keke,8,4,2,M,Adulte,Macao,2023,Ebonga,Keke,M,Adulte,1,2,Keke,C,F,39,forest_camp
+109,Keke,M309,Bangui,1,Adolescent,Bangui,home_visit,0,,,NA,0,Boudje,Bobondzo,Boudje,Ebonga,369,Bangui,NA,2,Keke,8,4,2,F,Adulte,Macao,2023,Boudje,Keke,F,Adulte,1,2,Keke,C,F,39,forest_camp
+110,Ngomo,M310,Bangui,1,Adolescent,Bangui,funeral,0,,,NA,0,Bopo,,,,,Bangui,NA,4,Ngomo,1,1,1,F,Personne agee,Macao,2023,Bopo,Ngomo,F,Personne agee,1,4,Ngomo,C,F,8,forest_camp
+111,Ngomo,M311,Mboule,1,Adolescent,bangui,funeral,0,,,NA,0,Boudje,Bopo,Boudje,Bokobya,373,Bobate,NA,2,Ngomo,2,2,2,F,Adulte,Macao,2023,Boudje,Ngomo,F,Adulte,1,2,Ngomo,C,F,8,forest_camp
+112,Ngomo,M312,Bangui,1,Adolescent,Bangui,funeral,1,2,1,1,1,Bokobya,Mongomba,Bokobya,Boudje,372,Mboule,NA,6,Ngomo,2,2,2,M,Adulte,Macao,2023,Bokobya,Ngomo,M,Adulte,1,6,Ngomo,C,F,8,forest_camp
+113,Ngomo,M313,Bangui,1,Adulte,Bangui,village,1,1,,1,0,Eepe,Emeke,Eepe,Boudje,375,Bangui,NA,0,Ngomo,3,2,2,M,Adulte,Macao,2023,Eepe,Ngomo,M,Adulte,1,0,Ngomo,C,F,8,forest_camp
+114,Ngomo,M314,Bangui,1,Adolescent,Bangui,village,0,,,NA,0,Boudje,,Boudje,,374,Bangui,NA,1,Ngomo,3,2,2,F,Adulte,Macao,2023,Boudje,Ngomo,F,Adulte,1,1,Ngomo,C,F,8,forest_camp
+115,Ngomo,M315,Bangui,0,,,,0,,,NA,0,Endoumou,Boudje,Endomou,,,,NA,0,Ngomo,4,3,2,M,Adolescent,Macao,2023,Endoumou,Ngomo,M,Adolescent,0,0,Ngomo,C,F,8,forest_camp
+116,Ngomo,M316,Bangui,0,,,,0,,,NA,0,,,,,,,NA,0,Ngomo,4,3,2,M,Adolescent,Macao,2023,,Ngomo,M,Adolescent,0,0,Ngomo,C,F,8,forest_camp
+117,Midiba,M317,Bangui,0,,,,0,,,NA,0,Eponga,Eepe,Eponga,,,,NA,0,Midiba,1,1,1,M,Adolescent,Macao,2023,Eponga,Midiba,M,Adolescent,0,0,Midiba,C,F,9,forest_camp
+118,Bayamoto,M318,Bangui,1,Adolescent,Bangui,village,0,,,NA,0,Bonguima,Bombondji,Bonguima,Ebonga,380,Bangui,NA,4,Bayamoto,1,5,2,M,Personne agee,Macao,2023,Bonguima,Bayamoto,M,Personne agee,1,4,Bayamoto,C,F,15,forest_camp
+119,Bayamoto,M319,,1,Enfant,Bangui,funeral,1,1,,1,0,Ebonga,,Ebonga,Bonguima,379,Bangui,NA,3,Bayamoto,1,5,2,F,Personne agee,Macao,2023,Ebonga,Bayamoto,F,Personne agee,1,3,Bayamoto,C,F,15,forest_camp
+120,Bayamoto,M321,Bangui,1,Adolescent,Mboule,village,1,1,,1,0,Ebonga,Emeke,Ebonga,Sambala,382,Mboule,NA,4,Bayamoto,2,5,1,F,Adulte,Macao,2023,Ebonga,Bayamoto,F,Adulte,1,4,Bayamoto,C,F,15,forest_camp
+121,Bayamoto,M322,Bangii,1,Adolescent,Bangui,funeral,1,1,,1,0,Sambala,Bonguima,Sambala,Ebonga,381,Bangui,NA,3,Bayamoto,2,5,2,M,Adulte,Macao,2023,Sambala,Bayamoto,M,Adulte,1,3,Bayamoto,C,F,15,forest_camp
+122,Bayamoto,M323,Bangui,0,,,,0,,,NA,0,Bonguima,,Bonguima,,,,NA,0,Bayamoto,3,1,2,M,Adulte,Macao,2023,Bonguima,Bayamoto,M,Adulte,0,0,Bayamoto,C,F,15,forest_camp
+123,Bayamoto,M324,Bangui,1,Adolescent,Bangui,funeral,1,1,,1,0,Bongomba,,Bongomba,Bonguima,384,Bangui,NA,2,Bayamoto,4,3,2,M,Adolescent,Macao,2023,Bongomba,Bayamoto,M,Adolescent,1,2,Bayamoto,C,F,15,forest_camp
+124,Bayamoto,M325,Bangui,1,Adolescent,Bangui,funeral,0,,,NA,0,Bonguima,Ebonga,Bonguima,Bongomba,384,Bangui,NA,1,Bayamoto,4,3,1,F,Adolescent,Macao,2023,Bonguima,Bayamoto,F,Adolescent,1,1,Bayamoto,C,F,15,forest_camp
+125,Lango,M326,Macao,1,Adulte,Zingo,funeral,0,,,NA,0,Bombembe,Bombela,Bombembe,Bossombo,387,Zingo,NA,4,Lango,1,6,2,F,Adulte,Macao,2023,Bombembe,Lango,F,Adulte,1,4,Lango,C,V,25,village_camp
+126,Lango,M328,Zingo,1,Adolescent,Macao,foraging,1,1,,1,1,Bombembe,Bamouanga,Bombembe,Boteke,389,Macao,NA,7,Lango,2,5,4,M,Personne agee,Macao,2023,Bombembe,Lango,M,Personne agee,1,7,Lango,C,V,25,village_camp
+127,Lango,M8,macao,1,Enfant,Macao,funeral,0,,,NA,0,Bombembe,Bombela,Bombembe,Bossombo,390,Macao,3,0,Moyimbi,5,4,1,F,Adulte,Macao,2022,NA,NA,NA,NA,NA,NA,Moyimbi,C,F,11,forest_camp
+128,Lango,M329,Macao,1,Adulte,Zingo,funeral,0,,,NA,0,Bombela,,,,393,Macao,NA,4,Lango,4,5,5,M,Adulte,Macao,2023,Bombela,Lango,M,Adulte,1,4,Lango,C,V,25,village_camp
+129,Lango,M330,Macao,1,Adulte,Mimpoutou,home_visit,1,1,,1,0,Bombembe,,Bombembe,Kalanga,397,Miputu,NA,2,Lango,6,4,2,M,Adulte,Macao,2023,Bombembe,Lango,M,Adulte,1,2,Lango,C,V,25,village_camp
+130,Mbila_MA,M331,Bangui,1,Enfant,Bangui,village,0,,,NA,0,Bokobya,,,,399,Bangui,NA,2,Mbila_MA,1,2,5,M,Personne agee,Macao,2023,Bokobya,Mbila macao,M,Personne agee,1,2,Mbila_MA,C,V,10,village_camp
+131,Banga,M332,Macao,1,Adulte,Seke,home_visit,1,1,,1,0,Boteke,Bokalanga,Boteke,Bombela,401,Seke,NA,5,Banga,1,5,2,F,Adulte,Macao,2023,,Banga,F,Adulte,1,5,Banga,R,,NA,village
+132,Banga,M332,Macao,1,Adulte,Seke,home_visit,1,1,,1,0,Boteke,Bokalanga,Boteke,Bombela,401,Seke,NA,5,Banga,1,5,2,F,Adulte,Macao,2023,,Banga,F,Adulte,1,5,Banga,C,F,NA,forest_camp
+133,Banga,M333,Seke,1,Adulte,Seke,village,1,1,,1,1,Bombela,Bomouya,Bombela,Boteke,400,Macao,NA,5,Banga,1,5,2,M,Adulte,Macao,2023,Bombela,Banga,M,Adulte,1,5,Banga,R,,NA,village
+134,Banga,M333,Seke,1,Adulte,Seke,village,1,1,,1,1,Bombela,Bomouya,Bombela,Boteke,400,Macao,NA,5,Banga,1,5,2,M,Adulte,Macao,2023,Bombela,Banga,M,Adulte,1,5,Banga,C,F,NA,forest_camp
+135,Banga,M334,,1,Adolescent,Macao,funeral,1,1,,1,0,Edzoyi,Bossombo,Edzoyi,Boteke,404,Macao,NA,2,Banga,2,4,NA,M,Adulte,Macao,2023,Edzoyi,Banga,M,Adulte,1,2,Banga,R,,NA,village
+136,Banga,M334,,1,Adolescent,Macao,funeral,1,1,,1,0,Edzoyi,Bossombo,Edzoyi,Boteke,404,Macao,NA,2,Banga,2,4,NA,M,Adulte,Macao,2023,Edzoyi,Banga,M,Adulte,1,2,Banga,C,F,NA,forest_camp
+137,Banga,M335,Seke,0,,,,0,,,NA,0,Bombela,Boteke,Bombela,,,,NA,0,Banga,3,1,1,M,Adolescent,Macao,2023,Bombela,Banga,M,Adolescent,0,0,Banga,R,,NA,village
+138,Banga,M335,Seke,0,,,,0,,,NA,0,Bombela,Boteke,Bombela,,,,NA,0,Banga,3,1,1,M,Adolescent,Macao,2023,Bombela,Banga,M,Adolescent,0,0,Banga,C,F,NA,forest_camp
+139,Ndobalikanbo,M337,Macao,1,Adulte,Macao,village,1,1,,1,0,Bomboutou,Bodjekou,Bomboutou,Bondjo,405,,NA,0,Ndobalikanbo,1,3,1,M,Adulte,Macao,2023,Bomboutou,Ndobalikanbo,M,Adulte,1,0,Ndobalikanbo,C,F,7,forest_camp
+140,Ndobalikanbo,M338,Macao,1,Enfant,Macao,home_visit,0,,,NA,0,Boundjo,Bondzala,Boundjo,Bokumu,409,Macao,NA,2,Ndobalikanbo,2,4,2,M,Adulte,Macao,2023,Boundjo,Ndobalikanbo,M,Adulte,1,2,Ndobalikanbo,C,F,7,forest_camp
+141,Ndobalikanbo,M339,Macao,1,Adolescent,Macao,village,0,,,NA,0,Boukoumou,Bossombo,Boukoumou,Boundjo,,Macao,NA,2,Ndobalikanbo,NA,4,2,F,Adulte,Macao,2023,Boukoumou,Ndobalikanbo,F,Adulte,1,2,Ndobalikanbo,C,F,7,forest_camp
+142,Macao_camp1,M340,Macao,1,Adolescent,Macao,home_visit,0,,,NA,0,,,,,411,Thanry,NA,2,Macao_camp1,1,2,2,M,Adulte,Macao,2023,,Macao camp 1,M,Adulte,1,2,Macao_camp1,C,V,6,village_camp
+143,Macao_camp1,M341,Zingo,1,Jeune adulte,Macao,village,1,2,,1,0,Boukoumou,Bossombo,Bokoumou,,,Macao,NA,2,Macao_camp1,NA,2,5,F,Adulte,Macao,2023,Boukoumou,Macao camp 1,F,Adulte,1,2,Macao_camp1,C,V,6,village_camp
+144,Macao_camp3,M342,Macao,1,Adulte,Macao,foraging,0,,,NA,0,,,,,416,Macao,NA,1,Macao_camp3,1,3,1,F,Adulte,Macao,2023,,Macao camp 3,F,Adulte,1,1,Macao_camp3,C,V,13,village_camp
+145,Macao_camp3,M343,Macao,1,Adolescent,Macao,home_visit,0,,,NA,0,Tongombe,,,,415,Bangui,NA,2,Macao_camp3,2,4,1,F,Adulte,Macao,2023,Tongombe,Macao camp 3,F,Adulte,1,2,Macao_camp3,C,V,13,village_camp
+146,Macao_camp3,M344,Bangui,1,Adulte,Macao,village,0,,,NA,0,Emanongo,Bongomba,Emanongo,Botomboli,414,Macao,NA,5,Macao_camp3,2,4,1,M,Adulte,Macao,2023,Emanongo,Macao camp 3,M,Adulte,1,5,Macao_camp3,C,V,13,village_camp
+147,Macao_camp3,M345,Macao,1,Adolescent,Macao,village,1,1,,1,0,Bokosse,,,,413,Bangui,NA,1,Macao_camp3,1,3,1,M,Adolescent,Macao,2023,Bokosse,Macao camp 3,M,Adolescent,1,1,Macao_camp3,C,V,13,village_camp
+148,Macao_camp5,M346,Macao,1,Adolescent,Macao,funeral,1,1,,1,0,,,,,418,Bobanda,NA,1,Macao_camp5,1,7,5,M,Personne agee,Macao,2023,,Macao camp 5,M,Personne agee,1,1,Macao_camp5,C,V,9,village_camp
+149,Macao_camp5,M347,Djoube,1,Adulte,Macao,funeral,1,1,1,NA,0,,,,,417,Macao,NA,3,Macao_camp5,1,7,5,F,Personne agee,Macao,2023,,Macao camp 5,F,Personne agee,1,3,Macao_camp5,C,V,9,village_camp
+150,Macao_camp4,M348,Berandjokou,1,Adulte,Macao,village,0,,,NA,0,Bokoti,Bobzewe,Bokoti,Bodzikala,,Macao,NA,2,Macao_camp4,NA,4,5,M,Adulte,Macao,2023,Bokoti,Macao camp 4,M,Adulte,1,2,Macao_camp4,C,V,4,village_camp
+151,Macao_camp6,M349,Macao,1,Adolescent,Macao,funeral,0,,,NA,0,Bossombo,Bombongo,Bossombo,Bondzolika,,Macao,NA,8,Macao_camp6,NA,2,5,F,Adulte,Macao,2023,Bossombo,Macao camp 6,F,Adulte,1,8,Macao_camp6,C,V,16,village_camp
+152,Macao_camp7,M351,Macao,1,Enfant,Macao,home_visit,0,,,NA,0,Emanongo,,,Bossombo,422,Sombo,NA,4,Macao_camp7,1,5,1,F,Adulte,Macao,2023,Emanongo,macao camp 7,F,Adulte,1,4,Macao_camp7,C,V,12,village_camp
+153,Macao_camp7,M352,,1,Adolescent,Macao,funeral,0,,,NA,1,Bossombo,Bokosse,Bossombo,Emanongo,,Pape_village,NA,5,Macao_camp7,NA,7,5,M,Adulte,Macao,2023,Bossombo,Macao camp 7,M,Adulte,1,5,Macao_camp7,C,V,12,village_camp
+154,Macao_camp6,M353,Pape_village,1,Adulte,Macao,funeral,1,1,1,NA,0,Bombongo,Bonguima,Bombongo,Bondzolika,,Macao,NA,4,Macao_camp6,2,5,5,F,Adulte,Macao,2023,Bombongo,Macao camp 6,F,Adulte,1,4,Macao_camp6,C,V,16,village_camp
+155,Macao_camp8,M354,Macao,0,,,,1,1,,1,0,Boundjo,Bondzala,Boundjo,Bonguima,,Pape_village,NA,6,Macao_camp8,1,9,2,F,Adulte,Macao,2023,Boundjo,Macao camp 8,F,Adulte,1,6,Macao_camp8,C,V,11,village_camp
+156,Macao_camp8,M355,Pape_village,0,,,,0,,,NA,0,Bonguima,Boundjo,Bonguima,,,,NA,0,Macao_camp8,1,9,NA,M,Adolescent,Macao,2023,Bonguima,Macao camp 8,M,Adolescent,0,0,Macao_camp8,C,V,11,village_camp
+157,Macao_camp9,M357,Macao,1,Adolescent,Macao,bar,0,,,NA,0,Bondzolika,Boteke,Bondzolika,Bombongo,429,Macao,NA,3,Macao_camp9,1,6,1,,Adulte,Macao,2023,Bondzolika,Macao camp 9,,Adulte,1,3,Macao_camp9,C,V,6,village_camp
+158,Macao_camp9,M359,Macao,1,Adulte,Macao,bar,1,1,,1,0,Bombongo,Bokosse,bombongo,Bondzolika,428,Macao,NA,3,Macao_camp9,1,6,1,M,Adulte,Macao,2023,Bombongo,Macao camp 9,M,Adulte,1,3,Macao_camp9,C,V,6,village_camp
+159,Macao_camp10,M360,Macao,1,Adolescent,Macao,foraging,1,1,1,NA,0,,,,,,Zingo,NA,5,Macao_camp10,1,5,5,F,Adulte,Macao,2023,,Macao camp 10,F,Adulte,1,5,Macao_camp10,C,V,4,village_camp
+160,Macao_camp4,M361,Macao,1,Adolescent,Thanry,home_visit,0,,,NA,0,,Bomouanga,,,,,NA,2,Macao_camp4,1,4,3,F,Adolescent,Macao,2023,,Macao camp 4,F,Adolescent,1,2,Macao_camp4,C,V,4,village_camp
+161,Macao_camp7,,Macao,1,Enfant,Macao,funeral,0,,,NA,0,,,,,445,Macao,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+162,Macao_camp7,,Seke,1,Adulte,Macao,funeral,0,,,NA,0,,,,,Mort,Macao,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+163,Macao_camp2,,Macao,1,Adolescent,Macao,funeral,0,,,NA,0,,Bossombo,Bondzala,Mokosse,449,Thanry,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+164,Pape_village,M362,Berandjokou,1,Adulte,Pape_village,home_visit,1,1,,1,0,Bombela,Boteke,Bombela,Emanongo,451,Pape_village,NA,0,Pape_village,1,4,2,M,Adulte,Macao,2023,Bombela,Pape village,M,Adulte,1,0,Pape_village,R,,29,village
+165,Pape_village,M364,Pape_village,1,Adolescent,Pape_village,home_visit,0,,,NA,0,Emanongo,Bombongo,Emanongo,Bombela,450,Berandjokou,NA,0,Pape_village,1,4,5,F,Adolescent,Macao,2023,Emanongo,Pape_village,F,Adolescent,1,0,Pape_village,R,,29,village
+166,Pape_village,M365,Berandjokou,1,Adolescent,Pape_village,home_visit,0,,,NA,0,Bongouako,,Bongouako,Boteke,453,Pape_village,NA,0,Pape_village,1,4,1,M,Adolescent,Macao,2023,Bongouako,Pape_village,M,Adolescent,1,0,Pape_village,R,,29,village
+167,Pape_village,M366,Pape_village,1,Adolescent,Pape_village,home_visit,0,,,NA,0,Boteke,,Boteke,Bongouako,452,Berandjokou,NA,0,Pape_village,1,4,5,F,Adolescent,Macao,2023,Boteke,Pape_village,F,Adolescent,1,0,Pape_village,R,,29,village
+168,Pape_village,M367,Bangui,1,Adulte,Bangui,foraging,1,2,1,1,1,Bodjombia,Bodjombia,Ekoumou,,345,Pape_village,NA,3,Pape_village,3,1,2,M,Personne agee,Macao,2023,Bodjombia,Pape_village,M,Personne agee,1,3,Pape_village,R,,29,village
+169,Pape_village,M368,Pape_village,1,Adulte,Baye,funeral,0,,,NA,0,Emanongo,Bombongo,Emanongo,Bombela,456,Baye,NA,4,Pape_village,5,5,5,M,Adulte,Macao,2023,Emanongo,Pape_village,M,Adulte,1,4,Pape_village,R,,29,village
+170,Pape_village,M369,Baye,1,Adolescent,Pape_village,funeral,0,,,NA,0,Boponga,Bombela,,Emanongo,455,Pape_village,NA,4,Pape_village,5,5,5,F,Adolescent,Macao,2023,Boponga,Pape_village,F,Adolescent,1,4,Pape_village,R,,29,village
+171,Pape_village,,Pape_village,1,Adulte,Pape_village,foraging,0,,,NA,0,Bombongo,,Bombongo,Bondzala,,Likombo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+172,Pape_village,,Pape_village,0,,,,0,,,NA,0,Emanongo,Bombongo,Emanongo,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+173,Pape_village,,Baye,1,Adolescent,Pape_village,home_visit,0,,,NA,0,Mokweke,Moteke,Mokweke,Moponga,465,Pape_village,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+174,Pape_village,,Pape_village,1,Adolescent,Pape_village,home_visit,0,,,NA,0,Boponga,Bonguima,Boponga,Mokweke,464,Baye,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+175,Pape_village,,Pape_village,1,Adolescent,Lindongou,home_visit,0,,,NA,0,Emanongo,Bombongo,Emanongo,,467,Bayanga,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+176,Pape_village,M370,,1,Adolescent,Pape_village,village,0,,,NA,0,Bombela,Bombongo,Bombela,Emanongo,466,Pape_village,NA,4,Pape_village,7,4,5,F,Adulte,Macao,2023,Bombela,Pape_village,F,Adulte,1,4,Pape_village,R,,29,village
+177,Pape_village,M370,,1,Adolescent,Pape_village,village,0,,,NA,0,Bombela,Bombongo,Bombela,Emanongo,466,Pape_village,NA,4,Pape_village,7,4,5,F,Adulte,Macao,2023,Mboma,Pape_village,F,Personne agee,1,1,Pape_village,R,,29,village
+178,Pape_village,M370,,1,Adolescent,Pape_village,village,0,,,NA,0,Bombela,Bombongo,Bombela,Emanongo,466,Pape_village,NA,4,Pape_village,8,12,3,F,Personne agee,Macao,2023,Bombela,Pape_village,F,Adulte,1,4,Pape_village,R,,29,village
+179,Pape_village,M370,,1,Adolescent,Pape_village,village,0,,,NA,0,Bombela,Bombongo,Bombela,Emanongo,466,Pape_village,NA,4,Pape_village,8,12,3,F,Personne agee,Macao,2023,Mboma,Pape_village,F,Personne agee,1,1,Pape_village,R,,29,village
+180,Pape_village,M371,Bangui,1,Adulte,Pape_village,funeral,1,1,1,NA,0,Mboma,Ponga,Mboma,Bondzala,468,Pape_village,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+181,Pape_village,,Pape_village,1,Adulte,Gwayanga,home_visit,1,1,1,NA,0,Bongomba,,Bongomba,Bondzala,471,Bayanga,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+182,Macao_camp2,,Macao,1,Adulte,Macao,funeral,0,,,NA,0,,,Emanongo,Bombongo,451,Macao,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+183,Pape_village,,Pape_village,1,Adulte,Pape_village,funeral,1,1,,1,1,Bondzala,,Bondzala,Boteke,469,Pape_village,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+184,Macao_camp1,,Zingo,1,Adolescent,Zingo,funeral,0,,,NA,0,Bossombo,,Bossombo,Bokoumou,,Zingo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+185,Macao_camp4,,Macao,1,Adolescent,Macao,,0,,,NA,0,Bomouanga,,Bomouanga,,,Macao,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+186,Lango,M7,Macao,1,Adolescent,Macao,funeral,1,1,,1,0,Bossombo,Emanoungou,Bossombo,Bombembe,391,Macao,3,0,Moyimbi,5,4,1,M,Adulte,Macao,2022,NA,NA,NA,NA,NA,NA,Moyimbi,C,F,11,forest_camp
+187,,,Bangui,1,Adolescent,Bangui,funeral,0,,,NA,0,Mokumu,Engouta,Mokumu,,,Bangui,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+188,Macao_camp10,M363,Macao,1,Adolescent,Macao,funeral,1,1,,1,0,Bondzala,,Bondzala,,,Seke,NA,1,Macao_camp10,1,3,3,M,Adulte,Macao,2023,Bondzala,Macao camp 10,M,Adulte,1,1,Macao_camp10,C,V,4,village_camp
+189,Bete1,,Bangui,1,Adolescent,Bangui,funeral,0,,,NA,0,Bokiba,Bolobe,Bokiba,Bondza,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+190,Mboule,M279,Bangui,1,Adolescent,Bangui,village,0,,,NA,0,Bokwete,Bobondjo,Bokwete,Moubonga,322,Bangui,NA,3,Mboule,10,5,2,F,Adulte,Macao,2023,Bokwete,Mboule,F,Adulte,1,3,Mboule,C,V,59,village_camp
+191,Mongo,MI134,Minganga,1,Jeune adulte,Attention,funeral,0,NA,NA,NA,0,Mokota,Bombingo,Mokota,,NA,Attention,NA,5,Mongo,1,8,5,M,Adulte,Minganga,2023,Mokota,Mongo,M,Adulte,1,5,Mongo,C,F,15,forest_camp
+192,Mongo,MI136,Mossombo,1,Adolescent,Mossombo,funeral,0,NA,NA,NA,0,Botoukou,Bokosso,Botoukou,Mokota,5,Mbili,NA,5,Mongo,2,7,5,F,Adulte,Minganga,2023,Botoukou,Mongo,F,Adulte,1,5,Mongo,C,F,15,forest_camp
+193,Mongo,MI137,Mossombo,1,Jeune adulte,Mossombo,funeral,0,NA,NA,NA,0,Mokosso,Mozouye,Mokosso,Botoukou,NA,Mossombo,NA,4,Mongo,3,2,5,F,Personne agee,Minganga,2023,,Mongo,F,Personne agee,1,4,Mongo,C,F,15,forest_camp
+194,Mongo,MI138,Mbili,1,Adolescent,Mossombo,funeral,1,1,NA,1,0,Mokota,Bombingo,Mokota,Botoukou,3,Mossombo,NA,5,Mongo,2,7,5,M,Adulte,Minganga,2023,Mokota,Mongo,M,Adulte,1,5,Mongo,C,F,15,forest_camp
+195,Mongo,MI143,Mossombo,0,,,,0,NA,NA,NA,0,Motoukou,,,,NA,,NA,0,Mongo,3,2,5,M,Adulte,Minganga,2023,Motoukou,Mongo,M,Adulte,0,0,Mongo,C,F,15,forest_camp
+196,Mossombo,MI144,,1,Adulte,Mossombo,funeral,1,1,1,NA,1,Botoukou,Djoko,Botoukou,Engouanda,NA,Mossombo,NA,2,Mossombo,NA,4,5,M,Adulte,Minganga,2023,Botoukou,Mossombo,M,Adulte,1,2,Mossombo,R,,NA,village
+197,Misseke,MI145,Attention,1,Jeune adulte,Attention,home_visit,0,NA,NA,NA,0,Bonganda,,Bonganda,,13,Attention,NA,2,Misseke_MI,1,4,1,M,Adulte,Minganga,2023,Bonganda,Misseke_MI,M,Adulte,1,2,Misseke_MI,C,F,9,forest_camp
+198,Misseke,MI146,Attention,0,,,,0,NA,NA,NA,0,Moundousse,Bonganda,Moundousse,Bonganda,12,Attention,NA,2,Misseke_MI,1,4,1,F,Adulte,Minganga,2023,Moundousse,Misseke_MI,F,Adulte,1,2,Misseke_MI,C,F,9,forest_camp
+199,Misseke,MI149,Ikelemba,1,Adulte,Attention,funeral,1,1,NA,1,0,Idongo,Djoko,Bokiba,Bonganda,NA,Attention,NA,3,Misseke_MI,2,1,3,M,Personne agee,Minganga,2023,Idongo,Misseke_MI,M,Personne agee,1,3,Misseke_MI,C,F,9,forest_camp
+200,Misseke,MI150,Attention,1,Adolescent,Toukoulaka,funeral,0,NA,NA,NA,1,Bondousse,Bonganda,Bondousse,Bokiba,18,Attention,NA,3,Misseke_MI,3,4,1,M,Adulte,Minganga,2023,Bondousse,Misseke_MI,M,Adulte,1,3,Misseke_MI,C,F,9,forest_camp
+201,Misseke,MI151,,1,Adolescent,Attention,home_visit,0,NA,NA,NA,0,Bokiba,Bonganda,Bokiba,Bondosse,17,Attention,NA,3,Misseke_MI,3,4,1,F,Adulte,Minganga,2023,Bokiba,Misseke_MI,F,Adulte,1,3,Misseke_MI,C,F,9,forest_camp
+202,Bouma,MI154,,1,Enfant,Minganga,funeral,0,NA,NA,NA,0,Bolobe,,,Etombe,22,Minganga,NA,4,Bouma,1,7,2,M,Adulte,Minganga,2023,Bolobe,Bouma,M,Adulte,1,4,Bouma,C,V,21,village_camp
+203,Bouma,MI155,Minganga,1,Enfant,Minganga,funeral,0,NA,NA,NA,0,Etombe,Boudjali,Etombe,Bolobe,21,Minganga,NA,4,Bouma,1,6,2,F,Adulte,Minganga,2023,Etombe,Bouma,F,Adulte,1,4,Bouma,C,V,21,village_camp
+204,Bouma,MI160,Mossombo,1,Adolescent,Mossombo,funeral,0,NA,NA,NA,1,Boussoumbou,,Boussoumbou,,28,Impfondo,NA,5,Bouma,2,6,2,M,Adulte,Minganga,2023,Boussoumbou,Bouma,M,Adulte,1,5,Bouma,C,V,21,village_camp
+205,Bouma,MI161,,1,Adolescent,Mossombo,funeral,0,NA,NA,NA,0,Engando,,,,27,Mossombo,NA,5,Bouma,2,6,1,F,Adulte,Minganga,2023,Engando,Bouma,F,Adulte,1,5,Bouma,C,V,21,village_camp
+206,Bouma,MI162,Mossombo,1,Adolescent,Mossombo,village,1,1,1,NA,0,Bombingo,Djoko,Bombingo,Bodzoyi,NA,Mossombo,NA,5,Bouma,5,1,2,F,Personne agee,Minganga,2023,Bombingo,Bouma,F,Personne agee,1,5,Bouma,C,V,21,village_camp
+207,Mbili,MI167,,1,Jeune adulte,Minganga,En cours de route,1,1,1,NA,0,Bokokoto,,Bokokoto,,NA,Bomassa,NA,0,Mbila,1,1,2,F,Personne agee,Minganga,2023,Bokokoto,Mbila,F,Personne agee,0,0,Mbila,C,V,15,village_camp
+208,Mbila,MI168,Mossombo,1,Adolescent,Mbili,school,0,NA,NA,NA,1,Bombito,Bokokoto,Bombito,Etombe,36,Mbili,NA,7,Mbila,2,7,2,M,Adulte,Minganga,2023,Bombito,Mbila,M,Adulte,1,7,Mbila,C,V,15,village_camp
+209,Mbila,MI169,Mbili,1,Adolescent,Mbili,school,0,NA,NA,NA,0,Etombe,,Etombe,Bombito,35,Mossombo,NA,6,Mbila,2,7,2,F,Adulte,Minganga,2023,Etombe,Mbila,F,Adulte,1,6,Mbila,C,V,15,village_camp
+210,Mbila,MI175,,1,Adolescent,Mbili,home_visit,1,1,NA,1,0,Bomambe,Etombe,Bomambe,Bombito,43,Mossombo,NA,4,Mbila,3,4,2,M,Adulte,Minganga,2023,Bomambe,Mbila,M,Adulte,1,4,Mbila,C,V,15,village_camp
+211,Mbila,MI176,Mossombo,1,Adolescent,Mbili,home_visit,0,NA,NA,NA,0,Bombito,Bokokoto,Bombito,Bomambe,42,Mbili,NA,4,Mbila,3,4,2,F,Adulte,Minganga,2023,Bombito,Mbila,F,Adulte,1,4,Mbila,C,V,15,village_camp
+212,Mbila,MI177,Mossombo,1,Adolescent,Mossombo,funeral,0,NA,NA,NA,0,Bodzoyi,Engouanda,Bodzoyi,Etombe,NA,Mbili,NA,3,Mbila,4,1,2,M,Adulte,Minganga,2023,Bodzoyi,Mbila,M,Adulte,1,3,Mbila,C,V,15,village_camp
+213,Bouma,MI178,Mossombo,0,,,,0,NA,NA,NA,0,Boussoumbou,,Boussoumbou,,NA,,NA,0,Bouma,3,2,2,F,Adolescent,Minganga,2023,Boussoumbou,Bouma,F,Adolescent,0,0,Bouma,C,V,21,village_camp
+214,Bouma,MI179,Mossombo,0,,,,0,NA,NA,NA,0,Mokota,Bodzoyi,Mokota,,NA,,NA,0,Bouma,3,2,2,F,Adolescent,Minganga,2023,Mokota,Bouma,F,Adolescent,0,0,Bouma,C,V,21,village_camp
+215,Bouma,MI180,Mossombo,1,Adolescent,Mossombo,funeral,0,NA,NA,NA,0,Bombingo,Boussoumbou,Bombingo,Bodzoyi,50,Mossombo,NA,3,Bouma,4,5,2,F,Adulte,Minganga,2023,Bombingo,Bouma,F,Adulte,1,3,Bouma,C,V,21,village_camp
+216,Bouma,MI181,Mossombo,1,Adolescent,Mossombo,funeral,0,NA,NA,NA,0,Bodzoyi,,Bodzoyi,Bombingo,49,Mossombo,NA,3,Bouma,4,5,2,M,Adulte,Minganga,2023,Bodzoyi,Bouma,M,Adulte,1,3,Bouma,C,V,21,village_camp
+217,Ngata,MI15,Mbili,0,,,,0,NA,NA,NA,0,Moudjali,Etombe,Moudjali,,NA,,0,NA,Mbaya,5,4,1,F,Adolescent,Minganga,2022,NA,NA,NA,NA,NA,NA,Mbaya,C,R,35,village_camp
+218,Ngata,,Mbili,1,Adolescent,Mbili,funeral,0,NA,NA,NA,0,,Boukoukoua,Etombe,Moudjali,56,Ikelemba,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+219,Ngata,MI8,Mossombo,1,Adolescent,Minganga,funeral,0,NA,NA,NA,0,Bombingo,Boussoumbou,Bombingo,Bomambe,58,Mbili,1,NA,Makossa3,1,5,3,F,Adulte,Minganga,2022,NA,NA,NA,NA,NA,NA,Makossa3,C,F,16,forest_camp
+220,Essesse,MI10,Mbili,1,Adolescent,Mbili,foraging,1,1,1,NA,0,Bomambe,Etombe,Bomambe,,61,Mbili,1,NA,Makossa1,1,4,2,M,Adulte,Minganga,2022,NA,NA,NA,NA,NA,NA,Makossa1,C,F,9,forest_camp
+221,Essesse,MI11,Minganga,1,Adulte,Mossombo,funeral,1,1,1,NA,0,Boukoukoua,Baba,Boukoukoua,,NA,Toukoulaka,1,NA,Makossa3,1,5,1,F,Personne agee,Minganga,2022,NA,NA,NA,NA,NA,NA,Makossa3,C,F,16,forest_camp
+222,Essesse,MI13,Mbili,1,Adolescent,Mbili,funeral,0,NA,NA,NA,0,Bonganda,Boukoukoua,Bonganda,Bomambe,59,Mbili,1,NA,Makossa1,1,4,2,F,Adulte,Minganga,2022,NA,NA,NA,NA,NA,NA,Makossa1,C,F,9,forest_camp
+223,Essesse,MI187,Mbili,1,Adolescent,Mbili,home_visit,0,NA,NA,NA,0,Bonganda,Bokokoto,Bonganda,Boukoukoua,63,Mossombo,NA,5,Essesse,1,6,2,M,Adulte,Minganga,2023,Bonganda,Essesse,M,Adulte,1,5,Essesse,C,V,24,village_camp
+224,Essesse,MI188,Mossombo,1,Enfant,Mossombo,funeral,0,NA,NA,NA,0,Boukoukoua,Bombito,Boukoukoua,Bonganda,62,Mbili,NA,5,Essesse,1,6,2,F,Adulte,Minganga,2023,Boukoukoua,Essesse,F,Adulte,1,5,Essesse,C,V,24,village_camp
+225,Essesse,MI22,Minganga,1,Adolescent,Mossombo,home_visit,0,NA,NA,NA,0,Bonganda,,Bonganda,Bodzoyi,65,Mossombo,1,NA,Mbaya,3,3,2,M,Adulte,Minganga,2022,NA,NA,NA,NA,NA,NA,Mbaya,C,R,35,village_camp
+226,Essesse,MI189,Mossombo,1,Adolescent,Mossombo,home_visit,0,NA,NA,NA,0,Bodzoyi,,,Bonganda,64,Mbili,NA,2,Essesse,2,4,2,F,Adolescent,Minganga,2023,Bodzoyi,Essesse,F,Adolescent,1,2,Essesse,C,V,24,village_camp
+227,Essesse,MI192,Toukoulaka,1,Adolescent,Attention,home_visit,0,NA,NA,NA,0,Bokobia,Boussoumbou,Bokobia,Ngouanda,71,Attention,NA,0,Essesse,3,2,2,F,Adolescent,Minganga,2023,Bokobia,Essesse,F,Adolescent,0,0,Essesse,C,V,24,village_camp
+228,Essesse,,Attention,1,Adolescent,Bène,foraging,0,NA,NA,NA,0,Bonganda,,Bonganda,Bopo,69,Toukoulaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+229,Ngata,MI6,Mbili,1,Adolescent,Mbili,home_visit,0,NA,NA,NA,0,Bokokoto,Etombe,Bokokoto,Bombingo,75,Mossombo,1,NA,Makossa3,3,4,2,F,Adulte,Minganga,2022,NA,NA,NA,NA,NA,NA,Makossa3,C,F,16,forest_camp
+230,Essesse,MI196,Mbili,0,,,,0,NA,NA,NA,0,Bonganda,Boukoukoua,Bonganda,,NA,,NA,0,Essesse,3,2,2,F,Adolescent,Minganga,2023,Bonganda,Essesse,F,Adolescent,0,0,Essesse,C,V,24,village_camp
+231,Essesse,MI195,Mbili,0,,,,0,NA,NA,NA,0,Bokokoto,Boukoukoua,Bokokoto,,NA,,NA,0,Essesse,4,5,1,M,Adulte,Minganga,2023,Bokokoto,Essesse,M,Adulte,0,0,Essesse,C,V,24,village_camp
+232,Essesse,MI197,Mbili,0,,,,0,NA,NA,NA,0,Bonga,Bokokoto,Bonga,,NA,,NA,0,Essesse,3,2,2,F,Adulte,Minganga,2023,Bonga,Essesse,F,Adulte,0,0,Essesse,C,V,24,village_camp
+233,Essesse,MI198,Mbili,1,Adolescent,Mbili,funeral,0,NA,NA,NA,0,Bonganda,Bokokoto,Bonganda,Djoko,NA,Ikelemba,NA,5,Essesse,4,3,2,F,Adulte,Minganga,2023,Bonganda,Essesse,F,Adulte,1,5,Essesse,C,V,24,village_camp
+234,Mbaya,MI17,Mossombo,1,Adolescent,Mossombo,funeral,0,NA,NA,NA,0,Bombingo,Bopolo,Bombingo,Bomboko,84,Mossombo,1,NA,Mbaya,1,3,5,M,Personne agee,Minganga,2022,NA,NA,NA,NA,NA,NA,Mbaya,C,R,35,village_camp
+235,Mbaya,MI21,Mossombo,1,Adolescent,Mossombo,funeral,1,1,NA,1,0,Bomboko,Sambala,Bomboka,,83,Mossombo,1,NA,Mbaya,1,3,5,F,Personne agee,Minganga,2022,NA,NA,NA,NA,NA,NA,Mbaya,C,R,35,village_camp
+236,Mbaya,MI92,Mossombo,1,Adulte,Mbaya,funeral,0,NA,NA,NA,0,Bombingo,Bomboko,Bombingo,Bokokoto,NA,Mbili,1,NA,Mbaya,2,3,5,F,Adulte,Minganga,2022,NA,NA,NA,NA,NA,NA,Mbaya,C,R,35,village_camp
+237,Mbaya,MI86,,1,Adolescent,Minganga,funeral,1,1,NA,1,0,Bombingo,Bomboko,Bombingo,,NA,Minganga,1,NA,Mbaya,6,4,5,F,Adulte,Minganga,2022,NA,NA,NA,NA,NA,NA,Mbaya,C,R,35,village_camp
+238,Mbaya,MI20,,1,Adolescent,Kabo,bar,0,NA,NA,NA,0,NA,,Bopo,,89,Minganga,NA,NA,Mbaya,1,3,5,F,Adolescent,Minganga,2022,NA,NA,NA,NA,NA,NA,Mbaya,C,R,35,village_camp
+239,Mbaya,,Mbaya,0,,,,0,NA,NA,NA,0,Bokokoto,Bombingo,Bokokoto,,NA,,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+240,Mbaya,MI203,,1,Adolescent,Kabo,bar,0,NA,NA,NA,0,Bodzoyi,Boussoumbou,Botoukou,Bopo,87,,NA,0,Mbaya,1,2,2,M,Adolescent,Minganga,2023,Bodzoyi,Mbaya,M,Adolescent,0,0,Mbaya,C,R,35,village_camp
+241,Bilikombo1,MI205,Mossombo,1,Adulte,Mossombo,funeral,0,NA,NA,NA,0,Boussoumbou,Engouanda,Boussoumbou,Bombingo,95,Mossombo,NA,6,Bylikombo1,1,6,2,M,Adulte,Minganga,2023,Boussoumbou,Bylikombo1,M,Adulte,1,6,Bylikombo1,C,R,11,village_camp
+242,Bilikombo1,MI206,Mossombo,1,Adolescent,Mossombo,funeral,0,NA,NA,NA,0,Bombingo,Embete,Bombingo,Boussoumbou,94,Mossombo,NA,6,Bylikombo1,1,6,2,F,Adulte,Minganga,2023,Bombingo,Bylikombo1,F,Adulte,1,6,Bylikombo1,C,R,11,village_camp
+243,Bylikombo1,MI207,Mossombo,1,Adulte,Mossombo,funeral,0,NA,NA,NA,0,Botoukou,Bokota,Botoukou,Bombingo,98,Mossombo,NA,5,Bylikombo1,2,6,1,M,Adulte,Minganga,2023,Botoukou,Bylikombo1,M,Adulte,1,5,Bylikombo1,C,R,11,village_camp
+244,Bilikombo1,MI209,Mossombo,1,Adolescent,Mossombo,funeral,0,NA,NA,NA,0,Bombingo,Bomambe,Bombingo,Botoukou,96,Mossombo,NA,5,Bylikombo1,2,6,1,F,Adulte,Minganga,2023,Bombingo,Bylikombo1,F,Adulte,1,5,Bylikombo1,C,R,11,village_camp
+245,Bylikombo2,MI210,,0,,,,0,NA,NA,NA,0,Etombe,,,,NA,,NA,4,Bylikombo2,1,1,2,F,Personne agee,Minganga,2023,Etombe,Bylikombo2,F,Personne agee,1,4,Bylikombo2,C,R,18,village_camp
+246,Bylikombo1,MI211,,0,,,,0,NA,NA,NA,0,Bossombo,,,,NA,,0,3,Bylikombo1,4,5,1,F,Adulte,Minganga,2023,Boussoumbou,Bylikombo1,F,Adulte,1,3,Bylikombo1,C,R,11,village_camp
+247,Bilikombo1,MI212,,0,,,,0,NA,NA,NA,0,Bossombo,,,,NA,,0,0,Bylikombo1,5,1,1,M,Adolescent,Minganga,2023,Boussoumbou,Bylikombo1,M,Adolescent,0,0,Bylikombo1,C,R,11,village_camp
+248,Bylikombo2,MI216,,0,,,,0,NA,NA,NA,0,Engando,,,,NA,,NA,4,Bylikombo2,2,3,1,M,Adulte,Minganga,2023,Engando,Bylikombo2,M,Adulte,1,4,Bylikombo2,C,R,18,village_camp
+249,Bylikombo2,MI29,Mossombo,1,,,funeral,0,NA,NA,NA,0,Bombingo,,,Bokota,108,Mossombo,1,NA,Bylikombo2,1,5,2,M,Adulte,Minganga,2022,NA,NA,NA,NA,NA,NA,Bylikombo2,C,R,18,village_camp
+250,Bylikombo2,MI28,Mossombo,1,,,funeral,0,NA,NA,NA,0,Bokota,,,Bombingo,107,Mossombo,1,NA,Bylikombo2,1,5,2,F,Personne agee,Minganga,2022,NA,NA,NA,NA,NA,NA,Bylikombo2,C,R,18,village_camp
+251,Ngata,MI185,,1,Adolescent,Mossombo,funeral,1,1,NA,1,0,Bomambe,Bombito,Bomambe,Bombingo,57,Mossombo,NA,1,Ngata,2,3,2,M,Adolescent,Minganga,2023,Bomambe,Ngata,M,Adolescent,1,1,Ngata,C,V,14,village_camp
