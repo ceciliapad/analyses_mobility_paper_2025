@@ -1,0 +1,14 @@
+age,sex,mean_prop_count_1,mean_prop_count_2,mean_prop_count_3,mean_prop_count_4,mean_prop_count_5,mean_prop_count_6
+Adolescent,F,0.25,0.11,0.13,0.02,0.03,0.31
+Adolescent,M,0.23,0.17,0.07,0.03,0.03,0.3
+Adulte,F,0.3,0.11,0.09,0.02,0.02,0.32
+Adulte,M,0.27,0.14,0.08,0.03,0.02,0.31
+Personne âgée,F,0.31,0.14,0.07,0.03,0.01,0.31
+Personne âgée,M,0.33,0.14,0.06,0.02,0.02,0.29
+,age,sex,mean_prop_count_1,mean_prop_count_3_5,mean_prop_count_6,,
+,Adolescent,F,0.25,0.29,0.31,5.78,
+,Adolescent,M,0.23,0.29,0.3,7.31,
+,Adulte,F,0.3,0.23,0.32,6.87,
+,Adulte,M,0.27,0.28,0.31,43,
+,Personne âgée,F,0.31,0.24,0.31,6.62,
+,Personne âgée,M,0.33,0.24,0.29,8.38,

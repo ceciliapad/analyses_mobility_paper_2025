@@ -1,0 +1,5 @@
+"Region","men_mean","men_median","women_mean","women_median","t_statistic","t_p_value","wilcox_statistic","wilcox_p_value","men_n","women_n"
+"Macao",16340.9354311247,7802.4787269401,NA,NA,NA,NA,NA,NA,14,0
+"Enyelle",62338.3576491262,14348.3944236845,NA,NA,NA,NA,NA,NA,11,0
+"Betou",5400.16800082622,5400.16800082622,NA,NA,NA,NA,NA,NA,2,0
+"Minganga",11176.4000942655,9987.26993225891,NA,NA,NA,NA,NA,NA,12,0

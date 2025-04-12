@@ -1,0 +1,6 @@
+"Region","men_mean","men_median","women_mean","women_median","t_statistic","t_p_value","wilcox_statistic","wilcox_p_value","men_n","women_n"
+"Dongou",85378.6408322802,73901.3867627833,NA,NA,NA,NA,NA,NA,15,0
+"Macao",28426.6601857932,9011.84018413536,NA,NA,NA,NA,NA,NA,17,0
+"Enyelle",119041.78506158,15983.4582454408,NA,NA,NA,NA,NA,NA,15,0
+"Betou",24616.2946601493,7425.05111960083,NA,NA,NA,NA,NA,NA,3,0
+"Minganga",22613.5858200716,10788.7283652747,NA,NA,NA,NA,NA,NA,13,0

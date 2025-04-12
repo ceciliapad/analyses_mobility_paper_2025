@@ -1,0 +1,17 @@
+,loc_red,mean_prop_count_1,median_prop_count_1,mean_prop_count_2,median_prop_count_2,mean_prop_count_3,median_prop_count_3,mean_prop_count_4,median_prop_count_4,mean_prop_count_5,median_prop_count_5,mean_prop_count_6,median_prop_count_6,mean_places_total
+2,F,0.251856965,0.1,0.10423534,0,0.056557479,0,0.017300258,0,0.014869694,0,0.500565722,0.5,6.183908046
+3,V,0.254110892,0.2,0.109470384,0,0.121234797,0,0.027960962,0,0.025155955,0,0.148121561,0,6.895604396
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,Residence camp,Propor,median_prop_count_1,mean_prop_count_2,median_prop_count_2,mean_prop_count_3,median_prop_count_3,mean_prop_count_4,median_prop_count_4,mean_prop_count_5,median_prop_count_5,mean_prop_count_6,median_prop_count_6,mean_places_total
+,Forest,0.251856965,0.1,0.10423534,0,0.056557479,0,0.017300258,0,0.014869694,0,0.500565722,0.5,6.183908046
+,Village,0.254110892,0.2,0.109470384,0,0.121234797,0,0.027960962,0,0.025155955,0,0.148121561,0,6.895604396
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,Residence camp,Proportion once,Proportion 2-5 times,Proportion more than 5 times,Total number of places visited,,,,,,,,,
+,Forest,0.25,0.19,0.50,6.18,,,,,,,,,
+,Village,0.25,0.28,0.15,6.90,,,,,,,,,

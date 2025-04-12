@@ -1,0 +1,25 @@
+"","age","sex","region","median_dist_mean","median_dist_median","max_dist_mean","max_dist_median"
+"1","Adolescent","F","Enyelle",NA,NA,NA,NA
+"2","Adolescent","F","Macao",NA,NA,NA,NA
+"3","Adolescent","F","Minganga",NA,NA,NA,NA
+"4","Adolescent","F","betou",NA,NA,NA,NA
+"5","Adolescent","M","Enyelle",NA,NA,NA,NA
+"6","Adolescent","M","Macao",7.84888419351203,7.84888419351203,7.84888419351203,7.84888419351203
+"7","Adolescent","M","Minganga",15.074822758391,15.074822758391,15.1748209355137,15.1748209355137
+"8","Adolescent","M","betou",NA,NA,NA,NA
+"9","Adulte","F","Enyelle",NA,NA,NA,NA
+"10","Adulte","F","Macao",NA,NA,NA,NA
+"11","Adulte","F","Minganga",NA,NA,NA,NA
+"12","Adulte","F","betou",NA,NA,NA,NA
+"13","Adulte","M","Enyelle",67.4665631716129,14.8438214571404,121.695124764731,25.1909677332211
+"14","Adulte","M","Macao",18.6374543551264,7.75607326036817,23.0334028636711,9.01184018413536
+"15","Adulte","M","Minganga",9.75822448755286,9.18581149924313,9.92115884212119,9.18581149924313
+"16","Adulte","M","betou",5.40016800082621,5.40016800082621,7.42505111960083,7.42505111960083
+"17","Personne âgée","F","Enyelle",NA,NA,NA,NA
+"18","Personne âgée","F","Macao",NA,NA,NA,NA
+"19","Personne âgée","F","Minganga",NA,NA,NA,NA
+"20","Personne âgée","F","betou",NA,NA,NA,NA
+"21","Personne âgée","M","Enyelle",NA,NA,NA,NA
+"22","Personne âgée","M","Macao",44.2342609490367,44.2342609490367,44.2342609490367,44.2342609490367
+"23","Personne âgée","M","Minganga",7.52616553371254,7.52616553371254,7.58478657077929,7.58478657077929
+"24","Personne âgée","M","betou",NA,NA,NA,NA

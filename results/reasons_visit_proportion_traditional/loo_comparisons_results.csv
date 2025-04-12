@@ -1,0 +1,25 @@
+"Response_Variable","Model","ELPD_Diff","SE_ELPD_Diff"
+"times_fish","With Interaction",0,0
+"times_fish","No Interaction",-1.35372652799499,1.25922886036178
+"times_fish","Random intercept",-2.79437769868974,1.3647598445939
+"times_hunt","With Interaction",0,0
+"times_hunt","No Interaction",-0.21599400498677,1.42669565713783
+"times_hunt","Random intercept",-0.731739335183558,1.36963249486617
+"times_friend_visit","With Interaction",0,0
+"times_friend_visit","No Interaction",-3.92819965649094,2.27628007892529
+"times_friend_visit","Random intercept",-5.32957735644736,3.49176630781562
+"times_dance","With Interaction",0,0
+"times_dance","No Interaction",-0.907764799799516,3.17772496175568
+"times_dance","Random intercept",-1.92736089306502,1.41612425713567
+"times_fam_visit","With Interaction",0,0
+"times_fam_visit","No Interaction",-1.99464828737326,3.61101869913743
+"times_fam_visit","Random intercept",-2.0127058892393,1.40561566994098
+"times_gather","With Interaction",0,0
+"times_gather","No Interaction",-3.36774321587317,2.69385357679236
+"times_gather","Random intercept",-8.79020098871041,6.14027770964712
+"times_live","With Interaction",0,0
+"times_live","No Interaction",-0.963251984822488,2.15279919441227
+"times_live","Random intercept",-1.4619693607882,0.792695749157018
+"times_just_visit","With Interaction",0,0
+"times_just_visit","No Interaction",-2.98872000467951,2.15497057872495
+"times_just_visit","Random intercept",-4.10233485080922,3.48891209612295
