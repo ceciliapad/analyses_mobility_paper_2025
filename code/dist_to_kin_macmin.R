@@ -2,8 +2,6 @@
 ## Distance to kin ##
 #####################
 
-#load("results/intermediate/explor_mating_range.RData")
-
 #load necessary libraries
 library(tidyr)
 library(dplyr)
