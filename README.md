@@ -2,7 +2,7 @@
 
 This code reproduces the results of the paper "Sexual division of labour shapes hunter-gatherer spatial ranges" by Padilla-Iglesias et al. 2025.
 
-All data required to reproduce the results from the paper is contained in the `data`` folder, with the exception of the GPS coordinates of 
+All data required to reproduce the results from the paper is contained in the `data` folder, with the exception of the GPS coordinates of 
 the study sites, which are not included for privacy reasons. Nonetheless, distances travelled for each displacement are provided.
 
 The code is organized into sections that correspond to the main figures and tables in the paper, and scripts can be inspected in any order.
@@ -13,7 +13,7 @@ All results reported in the manuscript and supplementary material are in the `re
 Running most Bayesian models used in the scripts can take 5-10 minutes (each) in a standard laptop.
 
 
-## R session information 
+## R session information 
 
 R version 4.4.2 (2024-10-31)
 Platform: aarch64-apple-darwin20
