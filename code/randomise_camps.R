@@ -40,7 +40,6 @@ anonymise_camp_column <- function(df, column_name, camp_codes) {
 }
 
 
-mr <- mr %>% anonymise_camp_column("nom", camp_codes)
 mr <- mr %>% anonymise_camp_column("camp_name.x", camp_codes)
 mr <- mr %>% anonymise_camp_column("camp_name.y", camp_codes)
 mr <- mr %>% anonymise_camp_column("residence_camp", camp_codes)
