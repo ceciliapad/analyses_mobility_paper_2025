@@ -1,6 +1,6 @@
-# Code for Padilla-Iglesias et al. 2025: "Sexual division of labour shapes hunter-gatherer spatial ranges"
+# Code for Padilla-Iglesias et al. 2025: "Gendered division of labour shapes hunter-gatherer spatial ranges"
 
-This code reproduces the results of the paper "Sexual division of labour shapes hunter-gatherer spatial ranges" by Padilla-Iglesias et al. 2025.
+This code reproduces the results of the paper "Gendered division of labour shapes hunter-gatherer spatial ranges" by Padilla-Iglesias et al. 2025.
 
 All data required to reproduce the results from the paper is contained in the `data` folder, with the exception of the GPS coordinates of 
 the study sites, which are not included for privacy reasons. Nonetheless, distances travelled for each displacement are provided.
